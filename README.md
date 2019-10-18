@@ -40,3 +40,10 @@ Strictly speaking, not all of these lines are required. But for me, they form th
 ## Example document
 
 Here is an example [org-mode file](https://raw.githubusercontent.com/tomfaulkenberry/orgFoils/master/example.org) (and the resulting [pdf](example.pdf)) that demonstrates how I use the integration of org and FoilTeX when making lecture slides for my courses.
+
+## Questions/comments?
+
+You can contact me by email or Twitter:
+
+- Email: [faulkenberry@tarleton.edu](mailto:faulkenberry@tarleton.edu)
+- Twitter: [@tomfaulkenberry](https://www.twitter.com/tomfaulkenberry)
