@@ -1,6 +1,6 @@
 # FoilTeX with Emacs Org Mode
 
-I have been an Emacs user since the early 2000s, and even before that, a LaTeX user. With the advent of [org mode](https://orgmode.org/), I was able to combine the efficiency of an Emacs-based markdown language with the mathematical typesetting power of LaTeX. 
+I have been an Emacs user since the early 2000s, and even before that, a LaTeX user. With the advent of [org mode](https://orgmode.org/), I am now able to combine the efficiency of an Emacs-based markdown language with the mathematical typesetting power of LaTeX. 
 
 In my job as a professor, I make presentations frequently. While org-mode handles this nicely with the [Beamer class](https://orgmode.org/worg/exporters/beamer/tutorial.html) in LaTeX, I longed for the simplicity of the LaTeX slides (foils) that I used to make with the [FoilTeX](https://ctan.org/pkg/foiltex?lang=en) package.  So, after some searching, I figured out an easy way to write FoilTeX presentations with org-mode.
 
